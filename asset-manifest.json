@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sastaFb/static/css/main.fd76fa62.css",
+    "main.js": "/sastaFb/static/js/main.2fb1e25a.js",
+    "index.html": "/sastaFb/index.html",
+    "main.fd76fa62.css.map": "/sastaFb/static/css/main.fd76fa62.css.map",
+    "main.2fb1e25a.js.map": "/sastaFb/static/js/main.2fb1e25a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd76fa62.css",
+    "static/js/main.2fb1e25a.js"
+  ]
+}
